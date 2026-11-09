@@ -10,7 +10,7 @@
 
 <sub>Join the JobHacki Discord community to talk about jobs with other job seekers.</sub>
 
-<sub><a href="https://discord.gg/RApjXmgnwA">Talk with others about remote jobs in #job-leads.</a></sub>
+<sub><a href="https://discord.gg/RApjXmgnwA">Talk with others about remote jobs in #remote-jobs.</a></sub>
 
 </div>
 
