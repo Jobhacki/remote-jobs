@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>58,406</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>65,719</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 16:18 UTC</sub>
+<sub>Snapshot 2026-11-22 20:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,23 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**58,406 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**65,719 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Application Security Engineer | chrobinson | Minnesota Remote |  | 2026-11-22 | [Apply](https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Minnesota-Remote/Senior-Application-Security-Engineer_R50142) |
+| Senior Advisor, Automation Risk & Controls - Evernorth - Remote | cigna | 6 Locations |  | 2026-11-22 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Senior-Advisor--Automation-Risk---Controls---Evernorth---Remote_26013887) |
+| Work From Home Coverage Education Advisor | Aogarciaagency | Alexandria, Louisiana |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/991ce3d3-d29a-42d8-a031-f58bf7f97003) |
+| Work From Home Coverage Education Advisor | Aogarciaagency | Bartlett, Tennessee |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/86b60eb9-c585-42e0-b5f8-a6afef17fcc2) |
+| Work From Home Client Retention Associate | Aogarciaagency | Bossier City, Louisiana |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/e2e6e09f-40d0-4292-bbb3-7ea68c9d6a2d) |
+| Work at Home Data Entry Agent - Part Time | usasurveyjob | Burbank, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/ee4266f3-f7d2-4440-9351-b8e4b4c294a1) |
+| Work at Home Data Entry Agent - Part Time | usasurveyjob | Oxnard, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/e875c480-b39a-4596-892e-041aa8528e4d) |
+| Work at Home Data Entry Agent - Part Time | usasurveyjob | Huntsville, Alabama |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/90e5de64-1040-4e4b-98ee-4e74a72683be) |
+| Registered Dietitian | future | Remote |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/future/jobs/4755626005) |
+| Enterprise Business Development Representative | incident | New York |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/incident/5c18978a-c2c7-4426-be0c-d5224bb894e8) |
+| Founding Engineering Lead | clera | New York |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/Clera/3768a39e-2b8c-4dab-aecd-e6638a7d303e) |
+| Applied AI Researcher | clera | New York |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/Clera/a3d89de4-55c4-47f2-89d8-2daadfc4cb65) |
 | Middle Full-Stack Engineer (React, Java) | Miratech1 | New York, NY, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Miratech1/744000163093379) |
 | Enterprise Account Executive - Central | ResolveAI | Remote |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/ResolveAI/d1cd654f-d12e-4685-bb28-871d3c8b373a) |
 | Solutions Engineering Manager | ResolveAI | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/ResolveAI/e2205cf3-4d92-40fa-a9df-a2ccd0a2e2ae) |
@@ -70,6 +82,9 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Ops Engineer | miramace | Remote |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/miramace/15a7b34e-3d3c-4f27-a84b-3bf67e12f37b) |
 | Product Manager | miramace | Remote |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/miramace/547beb0e-45c3-4c59-96f6-e88f67909417) |
 | Remote Quality Improvement Data Analyst | alignmenthealthcare | Anywhere in the U.S. |  | 2026-11-22 | [Apply](https://alignmenthealthcare.wd12.myworkdayjobs.com/en-US/ahc_external/job/Anywhere-in-the-US/Remote-Quality-Improvement-Data-Analyst_R2848) |
+| Inside Sales Representative- Advertising Executive (Remote) | Payroll | Ballwin, MO, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696200&lang=en_US&source=CC2) |
+| Inside Sales Representative- Advertising Executive (Remote) | Payroll | Austin, TX, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696201&lang=en_US&source=CC2) |
+| Inside Sales Representative- Advertising Executive (Remote) | Payroll | Milwaukee, WI, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7736c367-2aab-4508-a6be-7c4dc0014725&ccId=19000101_000001&jobId=696202&lang=en_US&source=CC2) |
 | Executive Vice President, Head of Commercial Access & Operations | MEITHEAL PHARMACEUTICALS, INC | Chicago, IL |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684475) |
 | Cyber Security Architect (Air Force experience a plus) | Infinisource Consulting Solutions |  |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666513) |
 | Cyber Security Architect (Air Force experience a plus) | Infinisource Consulting Solutions |  |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684426) |
@@ -82,16 +97,10 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Psychotherapist - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043961101) |
 | Registered Social Worker - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043960101) |
 | Registered Psychometrician - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043959101) |
-| Senior Backend Engineer | teamsnap | Remote |  | 2026-11-21 | [Apply](https://jobs.lever.co/teamsnap/c64f4d2c-8147-4f50-bd82-9182fdbca94e) |
-| Director of New Matters & Case Origination (Fully Remote) | superiorexecutiveandlegalrecruiting | Remote |  | 2026-11-21 | [Apply](https://jobs.lever.co/superiorexecutiveandlegalrecruiting/1840ba5d-6f29-4f3e-89b8-2e3cb841938a) |
-| Enterprise Account Executive - (Great Lakes) | sonatype | US - Central - Remote |  | 2026-11-21 | [Apply](https://jobs.lever.co/sonatype/02e23bf6-8012-4784-aee8-c444ec8ad315) |
-| Senior Solutions Engineer | snaplogic | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/snaplogic/bff31334-0cec-4fc4-8eeb-4d49a116615f) |
 | Associate Strategic Accounts Manager - Coatings | Carlisle Companies | Akron, Ohio, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Carlisle/3743990017022705) |
 | Creative AI Engineer | harvey | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d) |
 | Creative AI Engineer | harvey | New York |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060) |
 | Strategic Operations Intern | clera | New York |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/2698b76b-078f-4531-a6e8-2d15f0e2e963) |
-| Member of Technical Staff, Agents | clera | Palo Alto |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/e4d36f79-d932-42af-baba-498afe766efe) |
-| Senior Member of Technical Staff | clera | New York |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/33672054-7a29-458b-a0a4-048bd873f626) |
 | Hotline Operator, General Internal Medicine Research (SafeSpot) per diem | bmc | Remote |  | 2026-11-21 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Remote/Hotline-Operator--General-Internal-Medicine-Research--SafeSpot--per-diem_51886) |
 | Senior Security Consultant | Resultant | Indianapolis, IN, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000162958619) |
 | Head of Onboarding, West | vend-park | West Coast |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/vend-park/1ccccde1-e4df-4924-a5ea-9defb3652181) |
@@ -166,6 +175,13 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Compliance Lead; Medicare Ops | Humana | Remote Nationwide |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Compliance-Lead--Medicare-Ops_R-437366) |
 | Bilingual Correspondence Representative | Humana | Remote Puerto Rico |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Puerto-Rico/Bilingual-Correspondence-Representative_R-438301) |
 | MSL/Senior MSL Oncology, Hematology (Upper Midwest) | AbbVie | Saint Paul, MN, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017020066) |
+| Director, Technical Development & Innovation | A La C.A.R.T.E. Solutions | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/251FE32C38) |
+| Senior Software/Data Engineer, Bot Detection - US Remote | Hugging Face | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/D6D882F48F) |
+| Senior Software Engineer, Bot Detection (Client-Side & Signals) - US Remote | Hugging Face | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/2EC9909936) |
+| Probate & Estate Planning Paralegal (1099 Remote) | Zirtual | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/4309370A47) |
+| Private Equity Excel Expert, AI Expert | Weekday AI | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/971A23058C) |
+| Pharmacovigilance Specialist, AI Expert | Weekday AI | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/B71D1817A8) |
+| Pharma Manufacturing Expert, AI Expert | Weekday AI | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/574FCC8FCB) |
 | Manager Residency Program | Danbury Hospital | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/opR3AfwD) |
 | Unit Secretary/Coordinator (PT Evenings - Nursing Float Pool) | Danbury Hospital | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/osqXAfw9) |
 | Unit Secretary/Coordinator (PT Days, General Surgical) | Danbury Hospital | Danbury, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/oXL2Afw4) |
@@ -180,10 +196,6 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Senior Director of Children, Youth, and Families, Education and Justice | The Meadows Mental Health Policy Institute f... | TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679985) |
 | Customer Service Representative | Revenue Group | Cleveland, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662379) |
 | Manager, Software Support | CATALIS |  |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671839) |
-| Director, Advocacy & Communications | VillageReach | Seattle, Washington, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/3E9E726742) |
-| VP of Product, Platform Architecture | Veracross | Wakefield, Massachusetts, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/F6C83B16C0) |
-| Account Manager | Valsoft Corporation | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/9140FCB5B2) |
-| Estate Planning Attorney - Part-Time, Virtual / Wisconsin | United Placement Group | Madison, Wisconsin, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/F937A3483D) |
 | Director Technical Product Management | Myriad Genetics | United States |  | 2026-11-20 | [Apply](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6416) |
 | Major Account Manager | Fortinet | Miami, FL, United States |  | 2026-11-20 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24332) |
 | Part-Time Reporting Specialist | Outreach | Carol Stream, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672199) |
@@ -193,18 +205,6 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Grants Manager | Phoenix Rescue Mission | Phoenix, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684365) |
 | Revenue Cycle Specialist | Eye Health America, LLC | REMOTE WORKER - N/A |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4563584) |
 | Care Consultant | Snowline Hospice of El Dorado | Rancho Cordova, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682996) |
-| Business Development Representative -Outside Sales | Publishing Concepts | Dallas, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683293) |
-| Foster Care Coordinator | Thompson Child & Family Focus | Matthew, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682642) |
-| Corporate Travel Consultant - After Hours (Full-Time & Part-Time Positions Avai... | Fox World Travel Inc | Oshkosh, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680766) |
-| Cross Functional Corporate Travel Consultant (Full-Time & Part-Time Positions A... | Fox World Travel Inc | Oshkosh, WI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680777) |
-| Implementation Specialist | Metrc, LLC | Remote |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4210553) |
-| Hatchery Supervisor | Pilgrim's | Marshville, NC, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/ow48Afw2) |
-| Feed Mill Manager | Pilgrim's | Marshville, NC, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oD48Afw9) |
-| PRODUCTION TECH LEAD- BREEDING | JBS USA | Lamar, CO, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/oJ28Afwd) |
-| SHIPPING SUPERVISOR | Pilgrim's | Cold Spring, MN, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/jbs/job/ovk8Afwh) |
-| Senior Tax Advisor | PT&C Group LLC | United States |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680522) |
-| Tax Manager | PT&C Group LLC | Bethesda, MD |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679700) |
-| Territory Manager, Edema Specialist (Detroit, MI) | Sigvaris Inc |  |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677920) |
 <!-- JOBS_TABLE_END -->
 
 <details>
