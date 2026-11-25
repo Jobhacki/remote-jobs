@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>61,400</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>62,746</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 08:18 UTC</sub>
+<sub>Snapshot 2026-11-25 12:17 UTC</sub>
 
 </div>
 
@@ -50,12 +50,25 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**61,400 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**62,746 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Senior Static Designer (Paid Social Creatives) | Hire Digital | New York, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E2C54E5C80) |
+| Remote Mental Health Therapist (LMFT, LCSW, LPC) | Gotham Enterprises Ltd | West Memphis, Arkansas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/CDD312521F) |
+| Remote Mental Health Therapist (LMFT, LCMHC, LCSW) | Gotham Enterprises Ltd | Kernersville, North Carolina, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/02DDE7F86D) |
+| Licensed Professional Counselor (LPC) | Gotham Enterprises Ltd | Wheeling, West Virginia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/143C02E17B) |
+| IT Software Developer III | wfscorp | MIAMI, FL (Remote) |  | 2026-11-25 | [Apply](https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/MIAMI-FL-Remote/IT-Software-Developer-III_R23185) |
+| Head of Finance | wrike | US - Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/wrike/jobs/4758211005) |
+| AI Product Marketing Lead | NielsenIQ | Illinois, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000163664829) |
+| Senior UX Researcher | lig | Landmark - GBR - Home/Remote |  | 2026-11-25 | [Apply](https://www.landmark.co.uk/current-vacancy?gh_jid=8413924) |
+| Bilingual Spanish Customer Support Specialist | Experian | Van Buren, AR, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Experian/744000163628584) |
+| SAP Concur Specialist | EVB | Remote, XX |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/EVB/744000163659096) |
+| Product Security Engineer | Supabase | Remote, Global |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/supabase/62ad3b86-3a18-435a-ab29-dc62b77154e5) |
+| Business Process Owner (BPO) - Inventory & Logistics ERP (1-Year Temporary Posi... | Avery Dennison | Syracuse, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000163649632) |
+| VP Engineering | Quantexa | New York | $240k-275k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/quantexa/e829a2a3-1d88-42b6-a267-69ba99dc3917) |
+| Customer Success Manager, Perk Events - US | perk | Chicago | $72k-85k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Perk/83649f12-0717-49a1-a10a-e8812df4e9e1) |
+| Payroll Specialist (France) | oyster | EMEA |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/oyster/6aac1272-c8a4-49d2-b390-b31e5e6985b2) |
 | Sales Development Representative | clarivate | Remote (517- Victoria) |  | 2026-11-25 | [Apply](https://clarivate.wd3.myworkdayjobs.com/en-US/clarivate_careers/job/Remote-517--Victoria/Sales-Development-Representative_JREQ137229-1) |
 | Cataract Account Manager – New Mexico | alcon | Remote, New Mexico |  | 2026-11-25 | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Remote-New-Mexico/Cataract-Account-Manager---New-Mexico_R-2026-51068-1) |
 | Sr Director, Practice Lead | sureify | US - Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/sureify/jobs/5481822008) |
@@ -63,7 +76,6 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Content Reviewer - English (US) | Jobs for Humanity | California City, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163606159) |
 | Healthcare Product Analyst | Endava | Remote, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Endava/744000163605619) |
 | Director Client Partner | Thoughtworks | Chicago | $264k-508k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/thoughtworks/89c79408-8341-445d-8278-ddd6bc8957d7) |
-| GRC & Privacy Consultant (Part-Time) | fireworkhq | United States |  | 2026-11-25 | [Apply](https://jobs.lever.co/fireworkhq/214a7d93-1881-469b-bc94-b9a5be1bb670) |
 | Global Solution Architect - ValueOps - Remote | broadcom | 23 Locations |  | 2026-11-25 | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/external_career/job/USA-CA-Bay-Area-Remote-Location/Global-Solution-Architect---ValueOps---Remote_R027932) |
 | Accounting and Finance Intern | bannerhealth | Remote Arizona |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Remote-Arizona/Accounting-and-Finance-Intern_R4458595) |
 | Senior Content Engineer, AI and Automation | NVIDIA | US, CA, Remote |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Content-Engineer--AI-and-Automation_JR2030532) |
@@ -91,16 +103,30 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Sr Workforce Manager, Coding and CDI | amn | Remote - FL |  | 2026-11-25 | [Apply](https://amn.wd1.myworkdayjobs.com/en-US/amn_careers/job/Remote---FL/Sr-Workforce-Manager--Coding-and-CDI_Req24060) |
 | Field Remote Nurse Practitioner or Physician Assistant (Must be able to do in h... | alignmenthealthcare | Las Vegas, NV |  | 2026-11-25 | [Apply](https://alignmenthealthcare.wd12.myworkdayjobs.com/en-US/ahc_external/job/Las-Vegas-NV/Field-Remote-Nurse-Practitioner-or-Physician-Assistant--Must-be-able-to-do-in-home-visits-in-South-Las-Vegas-Henderson-or-Las-Vegas-_R2840) |
 | Senior Director, Marketing Mix Modeling & Investment Optimization | amgen | United States - Remote |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Senior-Director--Marketing-Mix-Modeling---Investment-Optimization_R-261597) |
+| Technical Product Manager – Enterprise Data Platform (NYC) | Ness Digital Engineering | New York, NY, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/ness/job/oPx6AfwM) |
+| Director Strategic Accounts Data Centers | Emerson Electric | Dallas, TX, United States |  | 2026-11-24 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014193) |
+| Advanced Specialist, Portfolio Management | Pearson | United States |  | 2026-11-24 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26704) |
+| Principal, Client Partner - Enterprise Institutional Sales (SE Region) | Pearson | United States |  | 2026-11-24 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26645) |
+| DRG / IRF Trainer | EXL | United States |  | 2026-11-24 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/23052) |
+| Senior Actuarial Analyst | EXL | New Jersey, United States |  | 2026-11-24 | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22969) |
+| Data Center Project Manager | Securitas | Ashburn, VA, United States |  | 2026-11-24 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177546) |
+| Product Owner | Fortive | Remote, United States |  | 2026-11-24 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11355) |
+| Territory Manager | S&C Electric Company | United States |  | 2026-11-24 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107512) |
+| Senior Software Engineer | Ford Motor Company | United States |  | 2026-11-24 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74559) |
+| Sales and Marketing Associate | Sinclair | Omaha, NE, United States |  | 2026-11-24 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17665) |
+| Focus Partner Channel Account Manager | Fortinet | Minneapolis, MN, United States |  | 2026-11-24 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/25052) |
+| Major Account Manager | Fortinet | Seattle, WA, United States |  | 2026-11-24 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24245) |
+| ProjectWise Specialist | Michael Baker International | United States |  | 2026-11-24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310234) |
+| Sr. Capture Executive | Michael Baker International | United States |  | 2026-11-24 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310228) |
+| Context Engineering Intern | Vanco Payment Solutions, Inc. | US |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682536) |
+| Controller | CSL CPAs | Sarasota, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691777) |
+| Junior Product Illustrator | Hadley Designs | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/75CB36F111) |
+| Microsoft Tooling Developer | Gritter Francona | Washington, District of Columbia, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/F95373F319) |
+| Remote Technical Support Engineer II | FusionTek | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/7CDAF55748) |
+| Virtual Middle School TOR (MN Certified) | Fullmind | Minneapolis, Minnesota, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/DEEB72D2D3) |
+| Field Service Coordinator - Rytech Restoration | Fortify Companies | Texas, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/2757D97F0F) |
+| Executive Partner to the CFO | primeexecutiveoffice | Remote |  | 2026-11-24 | [Apply](https://jobs.lever.co/primeexecutiveoffice/fd8380f5-5701-4464-adfd-0185d3bf95a6) |
 | Batchman/Transportation Supervisor | Reed Family Companies | Stockton, CA, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/reedfamilycompanies/job/ol39BfwS) |
-| Overnight Pharmacist: 7 day rotation / 3 of 7 nights Remote | DeliverCareRx | Mount Prospect Location , Mount Prospect, IL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=89423d84-5c1b-46b0-94e8-2ed784c53478&ccId=19000101_000001&jobId=587803&lang=en_US&source=CC2) |
-| Content Manager | Facet | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/3F6AF14897) |
-| Regional Medical Director | Encoded Therapeutics | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/223FF26663) |
-| Lifecycle Marketing Manager | DISCO | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/1922C27C4B) |
-| Senior Content Marketing & Social Media Specialist | olo | New York City, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/olo/e26675ad-139d-449b-94a3-99f070c582f4) |
-| Copy Editor, Professional | Morning Brew | New York, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/morningbrew/c034c255-0cba-46f2-84dd-0d84e0ae943f) |
-| Pediatric Clinical Quality Consultant | lyrahealth | United States |  | 2026-11-24 | [Apply](https://jobs.lever.co/lyrahealth/c1f9e18d-82cb-49ec-867d-70d2c35a9adb) |
-| Capital Projects Estimator | lessen | Chicago, IL | $165k-185k/yr | 2026-11-24 | [Apply](https://jobs.lever.co/lessen/b0c24f24-252d-4752-a705-4457118868cd) |
-| Public Relations Manager - Consumer | launchsquad | Remote, or Hybrid SF, NYC, BOS or CHI | $85k-100k/yr | 2026-11-24 | [Apply](https://jobs.lever.co/launchsquad/1c40d6b1-7ed7-45f6-b17f-f7f381ff3c02) |
 | Retirement Plan Analyst | Transition Finance Strategies LLC | Charlotte, NC |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690046) |
 | Fraud Analyst | North Easton Savings Bank | South Easton, MA |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689994) |
 | Principal Software Engineer | sumologic | Remote USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/sumologic/jobs/8386571) |
@@ -176,35 +202,9 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Client Success Manager I | marathonhealth | Remote GA - Southeast |  | 2026-11-24 | [Apply](https://marathonhealth.wd501.myworkdayjobs.com/en-US/marathon-health-careers/job/Remote-GA---Southeast/Client-Success-Manager-I_JR109430) |
 | Business Analytics Advisor - Evernorth - Remote | cigna | United States Work at Home |  | 2026-11-24 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor---Evernorth---Remote_26011840) |
 | Territory Manager West Coast | freudenberg | United States of America - Remote |  | 2026-11-24 | [Apply](https://freudenberg.wd3.myworkdayjobs.com/en-US/freudenberg-group/job/United-States-of-America---Remote/Territory-Manager-West-Coast_R_00110146) |
+| Account Executive | chargelab-inc | Remote USA |  | 2026-11-24 | [Apply](https://jobs.lever.co/chargelab-inc/daea2fb1-3984-4887-bc99-c79675ad69d6) |
 | Senior Product Designer, Growth | upstart | United States / Remote |  | 2026-11-24 | [Apply](https://careers.upstart.com/jobs?gh_jid=8415529) |
 | Sales Compensation Manager | Twilio | Remote - US |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405799) |
-| Senior Events Marketing Manager | tebra | United States - Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/tebra/jobs/4754088005) |
-| Territory Sales Manager (Charlotte, NC) | strivepharmacy | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/strivepharmacy/jobs/5308108007) |
-| Sr. Territory Sales Manager (Nashville, TN) | strivepharmacy | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/strivepharmacy/jobs/5308146007) |
-| Senior Project Engineer | VeoliaEnvironnementSA | Bellevue, WA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163553098) |
-| Sr. Global Supply Manager | SpaceX | Remote - TX |  | 2026-11-24 | [Apply](https://boards.greenhouse.io/spacex/jobs/8961432002?gh_jid=8961432002) |
-| Services Consultant | radiclehealth | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/radiclehealth/jobs/5308124007) |
-| Senior Site Reliability Engineer | radiclehealth | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/radiclehealth/jobs/5308179007) |
-| Software Engineer II (BotStopper) | pindropsecurity | US - Remote; US-Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pindropsecurity/jobs/8415376) |
-| Consultant Relations, PBM/Pharmacy Business Development Rep (BDR) | Omada Health | Remote, USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/8397946) |
-| Consultant Relations, Business Development Rep (BDR) | Omada Health | Remote, USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/8397950) |
-| Associate Product Manager, Data Governance | Omada Health | Remote, USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/omadahealth/jobs/8259191) |
-| Project Delivery Lead | oklo | Santa Clara, CA or Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6269324004) |
-| Localization Team Lead | notexternal | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/notexternal/jobs/8415502) |
-| Senior Detection and Response Engineer | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canad... |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6270715004) |
-| Senior Sales Director | medicalinformaticsengineering | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4522850009) |
-| Senior Fullstack Engineer, Enterprise Applications Development | manscaped | United States - Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/manscaped/jobs/5494131008) |
-| Senior Product Marketing Manager | LaunchDarkly | Remote - US |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8215689003) |
-| Consumer Hotline Producer, NBC & Telemundo Dallas/Fort Worth | NBCUniversal | Fort Worth, TX, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163551149) |
-| Administrative Assistant | kairospower | Albuquerque, NM or Oakridge, TN or Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6227553004) |
-| Staff Accountant II (Wholesale) | isccareers | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/isccareers/jobs/4757514005) |
-| Senior Statistical Programming Contractor | iovancebiotherapeutics | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5493699008) |
-| Clinical Data Manager II – Contract | iovancebiotherapeutics | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5493667008) |
-| Operations Manager | interdependence | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/interdependence/jobs/5494074008) |
-| College Admissions Counselor | interdependence | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/interdependence/jobs/5494023008) |
-| Business Development Manager | interdependence | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/interdependence/jobs/5494065008) |
-| Senior Commercial Contracts Manager | higherlogic | US-Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/higherlogic/jobs/8210787003) |
-| Director, Security Operations & Detection Engineering | harnessinc | U.S. (Remote) |  | 2026-11-24 | [Apply](https://www.harness.io/company/jobs/apply?gh_jid=5307056007&gh_jid=5307056007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
