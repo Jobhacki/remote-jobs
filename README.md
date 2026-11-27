@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-remote-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-remote-jobs-light.svg"><img alt="Remote jobs: JobHacki job list, last updated on Nov 26, 2026" src="assets/dist/hero-remote-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-remote-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-remote-jobs-light.svg"><img alt="Remote jobs: JobHacki job list, last updated on Nov 27, 2026" src="assets/dist/hero-remote-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>64,519</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>63,217</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 20:19 UTC</sub>
+<sub>Snapshot 2026-11-27 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Looking to work from home or from anywhere? This list is a fresh slice of remote jobs taken from employers' own hiring systems, last updated on Nov 26, 2026.
+Looking to work from home or from anywhere? This list is a fresh slice of remote jobs taken from employers' own hiring systems, last updated on Nov 27, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,22 +50,23 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**64,519 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
+**63,217 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Senior/Staff Software Engineer, Security | Zipdev | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/0B5481C17C) |
-| Visual Content Evaluator | Weekday AI | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/400CFD12F5) |
-| VA Claims Specialist | Weekday AI | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/FD4EE277CD) |
-| TripIt Specialist | Weekday AI | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/211E6941E2) |
+| Enterprise Applications Engineer, Zendesk | GitLab | Remote, United States |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8961167002) |
+| Senior Loyalty Marketing Lead | xero | US: San Mateo (1875 South Grant Street) |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/xero/55da422b-7828-4262-9d29-7c37d492797b) |
+| Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
+| Remote Inside Sales Associate (Insurance Tech Startup) | Jerry | Raleigh, North Carolina | $19-21/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/8840066f-1f0c-49df-b181-87cefe2512a9) |
+| Insurance Sales Agent (Remote) | Jerry | Houston, Texas | $19-21/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/f2ae3410-6d48-4170-ba5d-2fb1d44db175) |
+| Growth Product Manager, HTS Media | hopper | New York - Remote | $140k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/hopper/7b58a6d2-9c40-4445-865a-48830a0c657e) |
+| National Leader - Water Solutions | designworkstalent | USA |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/designworkstalent/3bec23c4-73e4-412e-9d13-ea259c5de6ed) |
 | Data Center Technician II | astreya | Remote, CO |  | 2026-11-26 | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Technician-II_R0018667) |
 | Data Center Technician II | astreya | Remote, VA |  | 2026-11-26 | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-VA/Data-Center-Technician-II_R0018640) |
-| Social Content Lead / Poppy & Peonies | Bloom | Remote Role |  | 2026-11-26 | [Apply](https://jobs.lever.co/bloom/4c84ca27-5772-4d9d-814f-0e695e0e88ae) |
 | Partner Manager (ESPs & Agencies) | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419584) |
 | Manager, Concierge Partnerships | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419602) |
 | Client Partner | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419559) |
-| Contract Analyst | kpler | New York | $75k-85k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/kpler/01b41ab1-7860-43b2-a0be-bc2c974b1686) |
 | Copy of Copy of Copy of Administrative Assistant | Jobs for Humanity | San Francisco, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163910244) |
 | Copy of Data Scientist | Jobs for Humanity | San Francisco, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163911479) |
 | Healthcare Data Scientist (Remote, International) | John Snow Labs | Remote, REMOTE, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JohnSnowLabs/744000163922429) |
@@ -76,14 +77,11 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | VP, Data Center Power & Site Development | lambda | Remote, USA | $400k-500k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Lambda/a55429d0-baeb-4ce2-af9f-22cc6bd52318) |
 | VP, Engineering - Data Center Design | lambda | Remote, USA | $400k-500k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Lambda/8d9e41af-f726-43dc-adec-8b29f8074202) |
 | Product Manager (2x YC founder mentorship) | Jerry | Palo Alto, California | $130k-160k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/d767354e-34dd-4ad7-b15a-a3afc56a8d70) |
-| Staff Data Scientist (growth-stage startup) | Jerry | New York, New York | $200k-230k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/a8b9ff6d-5b8f-4f47-aef2-3e918ac3eef6) |
-| Senior Manager, Business Operations (growth-stage startup) | Jerry | New York, New York | $200k-230k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/5b35f0a7-a4dc-4fcf-a585-36438c09cca1) |
 | Account Executive - R&D and AI infrastructure | hiverge | San Francisco |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/hiverge/fd8d8d4a-038f-44d7-b70f-af9dc5bcb30b) |
 | Account Executive - Optimization | hiverge | San Francisco |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/hiverge/3b4eb873-82b5-4f3f-b6ff-7c8bc4529f01) |
 | Product Marketing - Agents | elevenlabs | United States |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/ElevenLabs/945abd50-09e6-4adb-b59b-0f0d17b9d507) |
 | AI Training HPC Infrastructure - Member of Technical Staff | designworkstalent | Bellevue |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/designworkstalent/3d808f5f-5252-4174-93af-9c41f8178aa6) |
 | Inference Engineer (HPC GPU)- Member of Technical Staff | designworkstalent | Bellevue |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/designworkstalent/009e180f-2dee-4175-8623-2bfe328c2b83) |
-| Network Engineer (HPC GPU) - Member of Technical Staff | designworkstalent | Bellevue |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/designworkstalent/30dce37a-405b-4642-9ea9-15b610455b5c) |
 | Developer Relations | clera | Palo Alto |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) |
 | Werkstudent Content & Brand | clera | Orlando |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/a9f37d65-e187-47de-ac96-181d9152ee2c) |
 | Growth Marketing Lead | clera | New York | $130k-175k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/5a6002f9-049a-43f8-ab6e-33466471fccc) |
@@ -160,11 +158,10 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Customer Service Support Representative - Lab (Remote) | Labcorp | 2 Locations |  | 2026-11-26 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---OH---Wheelersburg---8991-Ohio-River-Road/Customer-Service-Support-Representative---Lab--Remote-_2641508) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Tester Engineer - TS/SCI | Xcelerate Solutions | Quantico, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oSN8Afw7) |
+| Systems Engineer - HPC & GPU Infrastructure - TS/SCI | Xcelerate Solutions | Bethesda, MD, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oj69BfwT) |
+| Personnel Security Administrator – Senior w/ TS/SCI with FSP | Xcelerate Solutions | McLean, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oB79Bfwc) |
 | Outside Parts Sales Representative | NY Bus Sales LLC | NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693144) |
-| Senior Edge Software Engineer | Accurant International | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E28441AF51) |
-| Sales Manager | Wealth Without Wallstreet | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/44575C5081) |
-| Sales Manager | Wealth Without Wallstreet | Birmingham, Alabama, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/07F4A3238F) |
-| Sales Development Representative | Wealth Without Wallstreet | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/909A63BBD7) |
 | Senior Machine Learning Engineer – Verve for Advertisers (VFA) | verve | Worldwide - remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/verve/jobs/8958270002) |
 | Technical Sales Engineer - Mechanical Design | Honeywell | NY, United States |  | 2026-11-25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161635) |
 | Director Technical Program Management | Myriad Genetics | United States |  | 2026-11-25 | [Apply](https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6462) |
@@ -180,10 +177,8 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | CPT-11835 Product Video Editing & Amazon Content Virtual Assistant | 20four7VA | Worldwide |  | 2026-11-25 | [Apply](https://20four7va.breezy.hr/p/9da496c3e405-cpt-11835-product-video-editing-amazon-content-virtual-assistant) |
 | CPT-11818 Logistics Operations & Driver Support Virtual Assistant | 20four7VA | Worldwide |  | 2026-11-25 | [Apply](https://20four7va.breezy.hr/p/cb7c673b117e-cpt-11818-logistics-operations-driver-support-virtual-assistant) |
-| Senior Data Engineer | Bluesight | United States - Remote | $130k-155k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/bluesight/eb53be34-14ee-4bec-9edb-bcd65136c989) |
-| Data Engineer | Bluesight | United States - Remote | $110k-130k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9) |
-| Ecommerce Manager / Poppy & Peonies | Bloom | Remote, |  | 2026-11-25 | [Apply](https://jobs.lever.co/bloom/054abcad-8fb1-466e-b911-e33f1f503813) |
 | Director, Finance Data, Reporting & AI | veeamsoftware | Remote, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5045175101) |
+| Senior Accountant | onceuponafarm | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/onceuponafarm/d2ade8a1-d148-4888-8b17-a0145de54402) |
 | Strategic Compensation & Total Rewards Analyst | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758795005) |
 | People Services Partner, Operations & Enablement | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758793005) |
 | People Services Partner, Operations & Compliance | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758791005) |
@@ -191,7 +186,11 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Enterprise Account Executive - US Federal | PagerDuty | Remote (USA - Washington DC-Baltimore Area) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/6253535004) |
 | Senior Salesforce Developer | m9solutions | Remote - Public Trust clearance required |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/m9solutions/jobs/5309735007) |
 | Community Manager, US East | heygen | US East (Remote) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309907007) |
+| Enterprise Account Executive | Magnet Forensics | New York |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/8184be5a-6b13-4d2e-b3fc-f2aae304ce34) |
+| Enterprise Account Executive | Magnet Forensics | Florida |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/04290f49-904d-40e8-a853-f55e4b4b6920) |
+| GTM Engineer, Growth | loopreturns | Remote | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/loopreturns/e0f0018f-774f-468f-8697-ae5ccef04a85) |
 | Senior Software Engineer, Enterprise Platform | Discord | San Francisco Bay Area or Remote (West Coast) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8958889002) |
+| Therapist (LCSW, LICSW, LMHC, MHC, LMFT)- Child or Adult | lifestance | Mansfield, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/044373ca-3042-4ad3-b86a-3119a7646d8b) |
 | Field Marketing Manager | cision | Remote - USA |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5016490101) |
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
 | Creative Operations Manager | blinkhealth | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8900626002) |
@@ -205,6 +204,7 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Counsel, Product | yipitdatajobs | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8418110) |
 | Counsel, Employment | yipitdatajobs | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8418058) |
 | Product Counsel | yipitdata | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8405354) |
+| Employment Counsel | yipitdata | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8405355) |
 <!-- JOBS_TABLE_END -->
 
 <details>
