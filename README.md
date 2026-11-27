@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>72,909</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>63,363</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 04:17 UTC</sub>
+<sub>Snapshot 2026-11-27 08:17 UTC</sub>
 
 </div>
 
@@ -50,15 +50,15 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**72,909 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**63,363 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Work From Home Coverage Education Advisor | Aogarciaagency | Barre, Vermont |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/f0050e29-ef65-48a5-a356-2d2b71d0fa86) |
-| Work From Home Coverage Education Advisor | Aogarciaagency | Grand Rapids, Michigan |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/0db1b57f-4ed6-4c25-a255-1772fdb7e31e) |
-| Work From Home Client Retention Associate | Aogarciaagency | Essex Junction, Vermont |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/63832ccd-fb57-4779-bfdd-fa7ac6cac93d) |
-| Principal Software Engineer | pointclickcare | Remote - US | $167.7k-209.6k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f) |
+| Strategic Account Manager | autostore | US Remote |  | 2026-11-27 | [Apply](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/US-Remote/Strategic-Account-Manager_JR102848) |
+| Program Manager, Strategic Accounts | autostore | US Remote |  | 2026-11-27 | [Apply](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/US-Remote/Program-Manager--Strategic-Accounts_JR102849) |
+| Splunk Admin (Remote) | cisco | Annapolis Junction, Maryland, US |  | 2026-11-27 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Annapolis-Junction-Maryland-US/Splunk-Admin--Remote-_2027478) |
+| Senior Full Stack Developer (Remote US) | smiledigitalhealth | Remote US | $120k-130k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/smiledigitalhealth/70a2d159-2203-47f6-a03f-25c50f76656b) |
 | Enterprise Applications Engineer, Zendesk | GitLab | Remote, United States |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8961167002) |
 | Senior Loyalty Marketing Lead | xero | US: San Mateo (1875 South Grant Street) |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/xero/55da422b-7828-4262-9d29-7c37d492797b) |
 | Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
@@ -162,11 +162,14 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Customer Service Support Representative - Lab (Remote) | Labcorp | 2 Locations |  | 2026-11-26 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---OH---Wheelersburg---8991-Ohio-River-Road/Customer-Service-Support-Representative---Lab--Remote-_2641508) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Security Operations Engineer | Davis Wright Tremaine LLP | Portland, OR, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/dwt/job/oyh9Bfwj) |
+| Business Development Specialist | Bodewell Group | San Diego, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694283) |
+| Win-back Specialist | Decentralized Masters | Miami, Florida, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E08EAD8447) |
+| Data Analyst Internship | ConnectPrep | Washington, District of Columbia, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/9F465A2E1A) |
+| College Admissions Counselor | ConnectPrep | Westport, Connecticut, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/10D0802F44) |
+| ACT and SAT Test Prep Instructor | ConnectPrep | New York, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/62E3E157FF) |
 | Paralegal (Taxes & Legal Compliance) | Life Couriers |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694776) |
 | Sales Representative - Western US Region | Eatery Essentials Inc. | CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694766) |
-| Strategic Account Executive | Checkmate | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/0AC67AA926) |
-| Customer Success Manager | BusRight | Los Angeles, California, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/2BF80B7E27) |
-| Virtual Elementary K-8 Math Tutor Fully Remote within 5 to 7 pm ET | BookNook | Miami, Florida, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/14DE6C160B) |
 | Tester Engineer - TS/SCI | Xcelerate Solutions | Quantico, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oSN8Afw7) |
 | Systems Engineer - HPC & GPU Infrastructure - TS/SCI | Xcelerate Solutions | Bethesda, MD, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oj69BfwT) |
 | Personnel Security Administrator – Senior w/ TS/SCI with FSP | Xcelerate Solutions | McLean, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oB79Bfwc) |
@@ -178,15 +181,12 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Account Manager (Cleveland, OH) | Fortive | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11311) |
 | IT Network Technical Planning and Engineering Specialist | Ford Motor Company | United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73960) |
 | Named Account Manager, Enterprise | Fortinet | Denver, CO, United States |  | 2026-11-25 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/25030) |
-| Transmission Line Designer | Ans | Denver, CO | $66.2k-83.6k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/ans/1a12513b-737a-47f5-9636-a8b83fc44bad) |
-| Transmission Line - Principal Engineer | Ans | Remote | $168k-197k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/ans/503145ba-78e6-42b8-b503-c3edb998259f) |
+| Care Team Intake Specialist | synapticure | Remote | $24-25/hr | 2026-11-25 | [Apply](https://jobs.lever.co/synapticure/2afdcf9d-58a1-44a3-a193-6916688f57fb) |
+| Trade Compliance Specialist | spreetail | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/spreetail/aedf0359-b34a-485c-a83d-1eb182609bfc) |
+| Senior Analytics Associate | seerinteractive | Remote | $80k-90k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/seerinteractive/702d8078-0e0d-42e6-be7c-4174b77dd08c) |
 | AI Data Scientist | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694242) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
-| Patient Engagement Specialist | profoundresearch | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/profoundresearch/a955f9c7-5fef-47f1-ac65-90f7ebfefe65) |
-| Accounting Manager, Debt &Corporate | pivotenergy | Denver, Colorado | $95k-130k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/pivotenergy/c34cea7c-019d-437f-89d3-4dd698860ab3) |
-| Associate Director, Account Management, TREGZI (Nationwide) | orcabiosystems | Remote | $190k-230k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/orcabiosystems/eeb6cabf-0eea-4acf-a6fc-989a2ac71083) |
-| Food Operations Manager | foodsmart | Remote (US) | $90k-110k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/foodsmart/c9bf8be1-9f1a-40fe-ae95-560425024248) |
 | Customer Enablement Manager | Botify | New York, United States |  | 2026-11-25 | [Apply](https://botify.teamtailor.com/jobs/8796879-customer-enablement-manager) |
 | Controller | Omnia Exterior Solutions |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694128) |
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
