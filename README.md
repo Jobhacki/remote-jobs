@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>63,217</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>72,909</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 00:18 UTC</sub>
+<sub>Snapshot 2026-11-27 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**63,217 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**72,909 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Work From Home Coverage Education Advisor | Aogarciaagency | Barre, Vermont |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/f0050e29-ef65-48a5-a356-2d2b71d0fa86) |
+| Work From Home Coverage Education Advisor | Aogarciaagency | Grand Rapids, Michigan |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/0db1b57f-4ed6-4c25-a255-1772fdb7e31e) |
+| Work From Home Client Retention Associate | Aogarciaagency | Essex Junction, Vermont |  | 2026-11-26 | [Apply](https://jobs.lever.co/aogarciaagency/63832ccd-fb57-4779-bfdd-fa7ac6cac93d) |
+| Principal Software Engineer | pointclickcare | Remote - US | $167.7k-209.6k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f) |
 | Enterprise Applications Engineer, Zendesk | GitLab | Remote, United States |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8961167002) |
 | Senior Loyalty Marketing Lead | xero | US: San Mateo (1875 South Grant Street) |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/xero/55da422b-7828-4262-9d29-7c37d492797b) |
 | Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
@@ -158,6 +162,11 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Customer Service Support Representative - Lab (Remote) | Labcorp | 2 Locations |  | 2026-11-26 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---OH---Wheelersburg---8991-Ohio-River-Road/Customer-Service-Support-Representative---Lab--Remote-_2641508) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Paralegal (Taxes & Legal Compliance) | Life Couriers |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694776) |
+| Sales Representative - Western US Region | Eatery Essentials Inc. | CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694766) |
+| Strategic Account Executive | Checkmate | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/0AC67AA926) |
+| Customer Success Manager | BusRight | Los Angeles, California, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/2BF80B7E27) |
+| Virtual Elementary K-8 Math Tutor Fully Remote within 5 to 7 pm ET | BookNook | Miami, Florida, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/14DE6C160B) |
 | Tester Engineer - TS/SCI | Xcelerate Solutions | Quantico, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oSN8Afw7) |
 | Systems Engineer - HPC & GPU Infrastructure - TS/SCI | Xcelerate Solutions | Bethesda, MD, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oj69BfwT) |
 | Personnel Security Administrator – Senior w/ TS/SCI with FSP | Xcelerate Solutions | McLean, VA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/oB79Bfwc) |
@@ -169,16 +178,21 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Account Manager (Cleveland, OH) | Fortive | Cleveland, OH, United States |  | 2026-11-25 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11311) |
 | IT Network Technical Planning and Engineering Specialist | Ford Motor Company | United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73960) |
 | Named Account Manager, Enterprise | Fortinet | Denver, CO, United States |  | 2026-11-25 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/25030) |
+| Transmission Line Designer | Ans | Denver, CO | $66.2k-83.6k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/ans/1a12513b-737a-47f5-9636-a8b83fc44bad) |
+| Transmission Line - Principal Engineer | Ans | Remote | $168k-197k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/ans/503145ba-78e6-42b8-b503-c3edb998259f) |
 | AI Data Scientist | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694242) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
 | Agronomic Technical Consultant / Sales Representative - Virginia | TIMAC AGRO USA INC | New Hope, VA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694540) |
+| Patient Engagement Specialist | profoundresearch | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/profoundresearch/a955f9c7-5fef-47f1-ac65-90f7ebfefe65) |
+| Accounting Manager, Debt &Corporate | pivotenergy | Denver, Colorado | $95k-130k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/pivotenergy/c34cea7c-019d-437f-89d3-4dd698860ab3) |
+| Associate Director, Account Management, TREGZI (Nationwide) | orcabiosystems | Remote | $190k-230k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/orcabiosystems/eeb6cabf-0eea-4acf-a6fc-989a2ac71083) |
+| Food Operations Manager | foodsmart | Remote (US) | $90k-110k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/foodsmart/c9bf8be1-9f1a-40fe-ae95-560425024248) |
 | Customer Enablement Manager | Botify | New York, United States |  | 2026-11-25 | [Apply](https://botify.teamtailor.com/jobs/8796879-customer-enablement-manager) |
 | Controller | Omnia Exterior Solutions |  |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694128) |
 | Controller | Omnia Exterior Solutions | Westerville, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694143) |
 | CPT-11835 Product Video Editing & Amazon Content Virtual Assistant | 20four7VA | Worldwide |  | 2026-11-25 | [Apply](https://20four7va.breezy.hr/p/9da496c3e405-cpt-11835-product-video-editing-amazon-content-virtual-assistant) |
 | CPT-11818 Logistics Operations & Driver Support Virtual Assistant | 20four7VA | Worldwide |  | 2026-11-25 | [Apply](https://20four7va.breezy.hr/p/cb7c673b117e-cpt-11818-logistics-operations-driver-support-virtual-assistant) |
 | Director, Finance Data, Reporting & AI | veeamsoftware | Remote, United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5045175101) |
-| Senior Accountant | onceuponafarm | Remote |  | 2026-11-25 | [Apply](https://jobs.lever.co/onceuponafarm/d2ade8a1-d148-4888-8b17-a0145de54402) |
 | Strategic Compensation & Total Rewards Analyst | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758795005) |
 | People Services Partner, Operations & Enablement | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758793005) |
 | People Services Partner, Operations & Compliance | tailscale | Remote (United States) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4758791005) |
@@ -186,25 +200,11 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Enterprise Account Executive - US Federal | PagerDuty | Remote (USA - Washington DC-Baltimore Area) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/6253535004) |
 | Senior Salesforce Developer | m9solutions | Remote - Public Trust clearance required |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/m9solutions/jobs/5309735007) |
 | Community Manager, US East | heygen | US East (Remote) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309907007) |
-| Enterprise Account Executive | Magnet Forensics | New York |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/8184be5a-6b13-4d2e-b3fc-f2aae304ce34) |
-| Enterprise Account Executive | Magnet Forensics | Florida |  | 2026-11-25 | [Apply](https://jobs.lever.co/magnetforensics/04290f49-904d-40e8-a853-f55e4b4b6920) |
-| GTM Engineer, Growth | loopreturns | Remote | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/loopreturns/e0f0018f-774f-468f-8697-ae5ccef04a85) |
 | Senior Software Engineer, Enterprise Platform | Discord | San Francisco Bay Area or Remote (West Coast) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8958889002) |
-| Therapist (LCSW, LICSW, LMHC, MHC, LMFT)- Child or Adult | lifestance | Mansfield, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/044373ca-3042-4ad3-b86a-3119a7646d8b) |
 | Field Marketing Manager | cision | Remote - USA |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5016490101) |
 | Business Development Manager, Autonomy | bluerivertech | Remote-US |  | 2026-11-25 | [Apply](https://www.bluerivertechnology.com/job/?gh_jid=8418287) |
 | Creative Operations Manager | blinkhealth | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8900626002) |
 | Senior Accountant | ascendhealthcare | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ascendhealthcare/jobs/5309711007) |
-| BILINGUAL HUMAN RESOURCE COORDINATOR | JBS USA | Green Bay, WI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/pilgrims/job/oLf9Bfwu) |
-| 2ND SHIFT PRODUCTION KILL FLOOR TRAINER | JBS USA | Worthington, MN, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/pilgrims/job/o2b9BfwH) |
-| SHIPPING SUPERVISOR- 3RD SHIFT | JBS USA | Plainwell, MI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/pilgrims/job/oHb9Bfwm) |
-| Inside Sales Representative - WI | J&B Medical Supply Co Inc | Wixom, MI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686926) |
-| Customer Service Coordinator | Bridgetower OPCO | FENTON, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687345) |
-| Employment & Labor Counsel | yipitdatajobs | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8418059) |
-| Counsel, Product | yipitdatajobs | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8418110) |
-| Counsel, Employment | yipitdatajobs | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdatajobs/jobs/8418058) |
-| Product Counsel | yipitdata | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8405354) |
-| Employment Counsel | yipitdata | US Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8405355) |
 <!-- JOBS_TABLE_END -->
 
 <details>
