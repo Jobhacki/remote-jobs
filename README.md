@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>63,189</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>63,319</h3><sub>open remote jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-28 00:18 UTC</sub>
+<sub>Snapshot 2026-11-28 04:19 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 
 ## Open jobs
 
-**63,189 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**63,319 open remote jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 04:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Board Certified Behavior Analyst (BCBA) / Hybrid / Columbus, Geogia | tellos | Georgia / Muscogee County | $100k-125k/yr | 2026-11-28 | [Apply](https://jobs.ashbyhq.com/tellos/eb0bc6f4-3574-4385-94a0-3b8d72757dfe) |
+| Board Certified Behavior Analyst (BCBA) / Hybrid / Columbus, Geogia | tellos | Upatoi | $100k-125k/yr | 2026-11-28 | [Apply](https://jobs.ashbyhq.com/tellos/6d01958a-7a6f-4cc7-bd0e-34db21c548ed) |
+| Product Manager, Open Source Growth | signoz | India or the US |  | 2026-11-28 | [Apply](https://jobs.ashbyhq.com/SigNoz/aa9c8222-2660-4318-9940-d0b9823d8d91) |
+| Senior Product Manager, Offers & Loyalty Partnerships | hopper | New York - Remote | $220k-280k/yr | 2026-11-28 | [Apply](https://jobs.ashbyhq.com/hopper/9098d914-9b2c-45a0-a56c-975819194041) |
 | Cloud Engineer III | appliedis | USA Remote |  | 2026-11-28 | [Apply](https://appliedis.wd5.myworkdayjobs.com/en-US/ais_careers/job/USA-Remote/Cloud-Engineer-III_JR2026001475) |
 | Cloud Engineer II Technical Analyst | appliedis | USA Remote |  | 2026-11-28 | [Apply](https://appliedis.wd5.myworkdayjobs.com/en-US/ais_careers/job/USA-Remote/Cloud-Engineer-II-Technical-Analyst_JR2026001476) |
 | Private Wealth Advisor (Private Client - Personal Strategy) - Dallas area | empower | TX Dallas - Remote |  | 2026-11-28 | [Apply](https://empower.wd12.myworkdayjobs.com/en-US/empower/job/TX-Dallas---Remote/Private-Wealth-Advisor--Private-Client---Personal-Strategy----Dallas-area_R0063855) |
@@ -62,16 +66,19 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Chief Technology Leader – Americas | slrconsulting | Remote, USA |  | 2026-11-28 | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/slrcareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | Managing Engineer - Product Security | allstate | US - Remote |  | 2026-11-28 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Managing-Engineer---Security_R29718) |
 | Associate Manager, Clinical Health Services (Remote, IL License) | CVS Health | IL - Work from home |  | 2026-11-28 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Associate-Manager--Clinical-Health-Services--Remote--IL-License-_R1068312-1) |
+| Live Recieving- Days | Pilgrim's | Cold Spring, MN, United States |  | 2026-11-27 | [Apply](https://jobs.jobvite.com/jbs/job/o9t9Bfw6) |
+| Hatchery Embrex Crew Operator 3rd Shift | Pilgrim's | Russellville, AL, United States |  | 2026-11-27 | [Apply](https://jobs.jobvite.com/jbs/job/oTs9BfwP) |
+| BILLING REPRESENTATIVE | JBS Carriers, Inc. | Greeley, CO, United States |  | 2026-11-27 | [Apply](https://jobs.jobvite.com/jbs/job/oss9Bfwo) |
+| Quality Assurance Supervisor I | Pilgrim's | Douglas, GA, United States |  | 2026-11-27 | [Apply](https://jobs.jobvite.com/jbs/job/oYr9BfwT) |
+| Per Diem Digital Clinician / MD/DO (TX License) | galileo | Remote, United States |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/galileo/jobs/8964387002) |
+| Per Diem Digital Clinician / MD/DO (TN License) | galileo | Remote, United States |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/galileo/jobs/8964386002) |
+| Profee Coding Consultant - Cardiology Claim Edits FT | datavant2 | Remote |  | 2026-11-27 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5483399008) |
 | Email Marketing Coordinator | IGN | Remote - New York, United States |  | 2026-11-27 | [Apply](https://jobs.jobvite.com/ign/job/oEy7AfwD) |
 | Global Mobility & Immigration Specialist | remotepeople | Remote EMEA |  | 2026-11-27 | [Apply](https://job-boards.eu.greenhouse.io/remotepeople/jobs/5054226101) |
-| Senior Forward Deployed AI Architect (Claude, AWS) | provectus | New York City Metropolitan Area |  | 2026-11-27 | [Apply](https://jobs.lever.co/provectus/00cf447c-2d4b-4567-937f-a2e0119d188c) |
-| Growth Marketer, AI-Native | provectus | New York, New York |  | 2026-11-27 | [Apply](https://jobs.lever.co/provectus/74ecef43-3ef6-4c8b-8f98-de805a467161) |
-| Director, Billing to Cash | pointclickcare | Remote, USA | $126.9k-158.6k/yr | 2026-11-27 | [Apply](https://jobs.lever.co/pointclickcare/18f73f69-b849-4a4b-9ecf-a1858b4f5e33) |
 | Senior Solutions Architect — Enterprise AI Infrastructure | mirantis | Raleigh, NC, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/mirantis/744000164095679) |
 | Email Support Representative | Jobs for Humanity | Fawn Grove, PA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164096319) |
 | Transcriptionist | Jobs for Humanity | Missouri City, MO, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164096399) |
 | Accounts Payable Clerk | Jobs for Humanity | Milwaukee, WI, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000164096669) |
-| Enterprise Account Executive | pelmorex | Remote US |  | 2026-11-27 | [Apply](https://jobs.lever.co/pelmorex/a3209203-944f-4b96-8e3d-b425462ffb2a) |
 | Sr. Manager, Marketing (GTM) | comfrt | Remote |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/comfrt/jobs/4525285009) |
 | Head of Growth | cofertility | Remote |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/cofertility/jobs/4525308009) |
 | Head of Brand | cofertility | Remote |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/cofertility/jobs/4525357009) |
@@ -89,6 +96,7 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Business Pricing Analyst | rxsense | Remote-US |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/rxsense/jobs/4758940005) |
 | Director, Service Delivery | Miratech1 | USA, USA, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Miratech1/744000164072879) |
 | Senior Solutions Architect — Enterprise AI Infrastructure | mirantis | Austin, TX, US |  | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/mirantis/744000164078123) |
+| Per Diem Digital Clinician / MD/DO (GA License) | galileo | Remote, United States |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/galileo/jobs/8964371002) |
 | VA Mortgage Underwriter | tomo | Remote - USA | $85k-97k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/tomo/3fe62186-1132-4e7d-afac-66288e36e603) |
 | Product & Lifecycle Marketing Manager | resq | New York, New York |  | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/resq/c6d6a828-384e-4671-8326-236011a6b512) |
 | Senior Field Marketing Manager | remarcable-inc | Omaha, NE Hybrid |  | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/remarcable-inc/5bff4e28-a984-4194-ae37-f7467b4447e9) |
@@ -137,17 +145,15 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Strategic Account Manager | autostore | US Remote |  | 2026-11-27 | [Apply](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/US-Remote/Strategic-Account-Manager_JR102848) |
 | Program Manager, Strategic Accounts | autostore | US Remote |  | 2026-11-27 | [Apply](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/US-Remote/Program-Manager--Strategic-Accounts_JR102849) |
 | Splunk Admin (Remote) | cisco | Annapolis Junction, Maryland, US |  | 2026-11-27 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Annapolis-Junction-Maryland-US/Splunk-Admin--Remote-_2027478) |
-| Lead Product Manager, Consumer Experience | LawnStarter | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/CE8F58A671) |
-| Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities) | Keywords Studios | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/BB4A509FEB) |
-| Senior Technical Designer - Freelance Talent Pool (2027 Opportunities) | Keywords Studios | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/B4E1F6097F) |
-| Senior Systems Designer - Freelance Talent Pool (2027 Opportunities) | Keywords Studios | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/05E6A2D9E6) |
+| Electrical Design & Compliance Lead | Runware | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/FD8215C0B0) |
 | Product Owner / Security Researcher / NDA | gt-hq | Worldwide - Remote |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/gt-hq/8da4fde0-4b90-4b99-8d61-341159cf3366) |
-| Principal Software Engineer | pointclickcare | Remote - US | $167.7k-209.6k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f) |
+| Senior Full Stack Developer (Remote US) | smiledigitalhealth | Remote US | $120k-130k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/smiledigitalhealth/70a2d159-2203-47f6-a03f-25c50f76656b) |
 | Enterprise Applications Engineer, Zendesk | GitLab | Remote, United States |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8961167002) |
 | Senior Loyalty Marketing Lead | xero | US: San Mateo (1875 South Grant Street) |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/xero/55da422b-7828-4262-9d29-7c37d492797b) |
 | Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
 | Growth Product Manager, HTS Media | hopper | New York - Remote | $140k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/hopper/7b58a6d2-9c40-4445-865a-48830a0c657e) |
 | National Leader - Water Solutions | designworkstalent | USA |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/designworkstalent/3bec23c4-73e4-412e-9d13-ea259c5de6ed) |
+| Social Content Lead / Poppy & Peonies | Bloom | Remote Role |  | 2026-11-26 | [Apply](https://jobs.lever.co/bloom/4c84ca27-5772-4d9d-814f-0e695e0e88ae) |
 | Partner Manager (ESPs & Agencies) | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419584) |
 | Manager, Concierge Partnerships | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419602) |
 | Client Partner | wunderkind | Remote |  | 2026-11-26 | [Apply](https://www.wunderkind.co/careers/?gh_jid=8419559) |
@@ -199,12 +205,6 @@ Looking to work from home or from anywhere? This list is a fresh slice of remote
 | Security Engineer | Speak | San Francisco | $150k-280k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/speak/72f49e30-a0bc-4081-bcfe-16bdd7181ccc) |
 | Creator & Influencer Marketing Lead | perplexity | San Francisco | $175k-225k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Perplexity/9dfec7e8-33eb-490a-af21-263602426826) |
 | Customer Marketing Manager | perplexity | San Francisco | $200k-290k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Perplexity/9f9f7f1a-df07-4b40-8e2b-bcf453af6c85) |
-| Sr. Procurement Specialist | openloophealth | United States - Remote |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/openloophealth/9a371204-5f66-40d9-bb60-debc8a94b778) |
-| Scaled Partner Development Manager, Provider Acceleration | OpenRouter | Remote (US) | $180k-220k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/openrouter/aaedc311-8b0c-40a0-af13-df82ba10f6af) |
-| Applied Scientist - Cybersecurity | Mistral AI | Palo Alto |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/mistral.ai/5be6a9c6-f7d7-45d4-8951-0dbf58be222f) |
-| Marketing Intern, North America (B2B Events & Growth) | meshy | Bay Area Office |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/meshy/0b471661-131a-4a91-9ae0-5a99bef62591) |
-| GTM Engineer | LlamaIndex | San Francisco | $120k-180k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/llamaindex/3e7dfcda-dd8d-47d2-ba6b-7ab5479bfddd) |
-| Technical Recruiter | harmonic | Palo Alto | $175k-275k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Harmonic/85bae577-b8ce-4f65-832f-60b125d0c5fb) |
 <!-- JOBS_TABLE_END -->
 
 <details>
